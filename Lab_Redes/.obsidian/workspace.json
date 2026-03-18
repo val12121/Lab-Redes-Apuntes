@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "174d66a7ea846120",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b3155dde9a9d7e9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +180,8 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "ef0c73436c8a3646",
