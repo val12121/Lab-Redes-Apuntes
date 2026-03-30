@@ -1,7 +1,6 @@
 # P06. Border Gateway Protocol (BGP)
 
-
-1. Lo primero que hacemos para resolver esta práctica es el siguiente comando:
+1. Lo primero que hacemos para resolver esta práctica es lo siguiente comando:
 	- `vtysh`
 	- `configure`
 	- `router bgp <100>`
